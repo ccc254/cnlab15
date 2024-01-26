@@ -25,6 +25,7 @@ void shuffle(int *a,int *b,int *c,int *d){
 	   int j = rand()%N;
 	   swap(x[i],x[j]);
 	}
+	
 	*a = x[0];
 	*b = x[1];
 	*c = x[2];

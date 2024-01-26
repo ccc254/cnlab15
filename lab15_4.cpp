@@ -17,6 +17,7 @@ int main(){
 	
 	return 0;
 }
+
 void shuffle(int &a,int &b,int &c,int &d){
 	int x[] = {a,b,c,d};
 	int N = sizeof(x)/sizeof(x[0]);

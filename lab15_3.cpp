@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+	
 	int a[] = {1,2,4,6,9}; 
 	double b[] = {5.5,2.1,13,-7,6.9,0,25,11.1,-4}; 
 	
